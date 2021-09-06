@@ -1,0 +1,7 @@
+.env
+.bloop/
+.bsp
+.metals/
+project/
+target/
+logs/
